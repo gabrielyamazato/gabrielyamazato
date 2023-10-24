@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Yamazato</h1>
 <h3 align="center">A Brazillian student learning to code.</h3>
 
-- 🌱 I’m currently learning **back end at Trybe.**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [gabrielyamazato.github.io](gabrielyamazato.github.io)
 
 - 📫 How to reach me **gabrielyamazato@gmail.com**
 
-- ⚡ Fun fact **I like cars**
+- ⚡ Fun fact **I like cars and I have 4 cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
